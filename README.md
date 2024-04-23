@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Duc Ngo</h1>
 <h3 align="center">A fourth year student of Ho Chi Minh city of Technology. My faculty is Mechatronics. I am passionate about AI, especially deep learning (computer vision)</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **Optimizing parameters of coffee machine**
 
